@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <%- include('partials/menu') %>
+
+    <main>
+      <h1>Crie sua imagem</h1>
+      <form action="/images/generate" method="POST">
+        <label for="description">Descrição:</label>
+        <textarea id="description" name="description" required></textarea>
+
+        <label for="style">Estilo:</label>
+        <select id="style" name="style" required>
+          <option value="Pixar">Pixar</option>
+          <option value="Cartoon">Cartoon</option>
+          <option value="Disney">Disney</option>
+        </select>
+
+        <button type="submit">Gerar Imagem</button>
+      </form>
+    </main>
+
+    <%- include('partials/footer') %>
+  </body>
+</html>

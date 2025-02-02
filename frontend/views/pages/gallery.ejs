@@ -1,0 +1,17 @@
+<%- include('partials/menu') %>
+
+<main>
+  <h1>Biblioteca de Imagens</h1>
+  <form method="GET" action="/gallery">
+    <input type="text" name="search" placeholder="Buscar por tags..." />
+    <select name="style">
+      <option value="">Todos os estilos</option>
+      <option value="Pixar">Pixar</option>
+      <option value="Cartoon">Cartoon</option>
+      <option value="Disney">Disney</option>
+    </select>
+    <button type="submit">Filtrar</button>
+  </form>
+</main>
+
+<%- include('partials/footer') %>

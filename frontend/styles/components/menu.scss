@@ -1,0 +1,19 @@
+.menu {
+    @include flex-center;
+    background: $primary-color;
+    padding: 1rem;
+    
+    nav {
+        ul {
+            list-style: none;
+            display: flex;
+            gap: 20px;
+        }
+
+        a {
+            text-decoration: none;
+            color: white;
+            font-weight: bold;
+        }
+    }
+}
