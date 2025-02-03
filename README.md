@@ -42,8 +42,10 @@ Aqui você pode:
 
 | **Tecnologia/Metodologia** | **Descrição** | **Ícone** |
 |----------------------|-----------------|----------------|
+| **JavaScript** | Linguagem principal para interatividade | ![JavaScript](https://img.shields.io/badge/JavaScript-8A2BE2?style=for-the-badge&logo=javascript&logoColor=white) |
 | **Node.js** | Back-end rápido e escalável | ![Node.js](https://img.shields.io/badge/Node.js-8A2BE2?style=for-the-badge&logo=node.js&logoColor=white) |
 | **Express.js** | Framework web minimalista e eficiente | ![Express.js](https://img.shields.io/badge/Express.js-8A2BE2?style=for-the-badge&logo=express&logoColor=white) |
+| **APIs RESTful** | Comunicação eficiente entre front-end e back-end | ![API](https://img.shields.io/badge/APIs%20RESTful-8A2BE2?style=for-the-badge&logo=fastapi&logoColor=white) |
 | **MySQL2** | Banco de dados para armazenar suas criações | ![MySQL](https://img.shields.io/badge/MySQL-8A2BE2?style=for-the-badge&logo=mysql&logoColor=white) |
 | **Knex.js** | Query Builder para interagir com MySQL | ![Knex.js](https://img.shields.io/badge/Knex.js-8A2BE2?style=for-the-badge&logo=knex&logoColor=white) |
 | **EJS** | Templates dinâmicos para páginas interativas | ![EJS](https://img.shields.io/badge/EJS-8A2BE2?style=for-the-badge) |
@@ -54,6 +56,7 @@ Aqui você pode:
 | **Arquitetura MVC** | Organização do projeto para melhor escalabilidade | 📂💜 |
 | **CRUD** | Operações básicas de criação, leitura, atualização e exclusão | 🔄💜 |
 | **SEO** | Melhor posicionamento no Google | 🔍💜 |
+
 
 ---
 
