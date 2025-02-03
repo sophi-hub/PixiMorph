@@ -1,4 +1,4 @@
-# **pixiMorph** – Criando mundos mágicos, um pixel por vez! 
+# **PixiMorph** – Criando mundos mágicos, um pixel por vez! 
 
 <div align="start">
   <img src="https://img.shields.io/badge/Pixar-3D%20Magic-8A2BE2?style=for-the-badge&logo=adobe&logoColor=white">
@@ -8,7 +8,7 @@
 
 ---
 
-Bem-vindo a **pixiMorph**, um universo onde sua imaginação se transforma em **arte 3D no estilo Pixar, Disney ou Cartoon**! 🎨💜  
+Bem-vindo a **PixiMorph**, um universo onde sua imaginação se transforma em **arte 3D no estilo Pixar, Disney ou Cartoon**! 🎨💜  
 
 Aqui você pode:
 
@@ -64,7 +64,7 @@ Aqui você pode:
 
 🔽 Clone este repositório:
 ```bash
-git clone https://github.com/seu-usuario/pixiMorph.git
+git clone https://github.com/seu-usuario/PixiMorph.git
 ```
 
 ## **Contribuindo para o Projeto** 🤝
