@@ -1,2 +1,4 @@
 .env
 /database/
+node_modules/
+
