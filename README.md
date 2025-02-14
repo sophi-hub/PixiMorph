@@ -64,7 +64,7 @@ Aqui você pode:
 
 🔽 Clone este repositório:
 ```bash
-git clone https://github.com/seu-usuario/PixiMorph.git
+git clone https://github.com/sophi-hub/PixiMorph.git
 ```
 
 ## **Contribuindo para o Projeto** 🤝
